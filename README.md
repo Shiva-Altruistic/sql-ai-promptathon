@@ -6,7 +6,7 @@ Welcome to the SQL AI Promptathon! This is a Codespaces-ready workspace for prac
 
 You can run the Promptathon in two ways: using GitHub Codespaces or locally using Dev Containers. Both options provide a preconfigured environment with a SQL Server database and the necessary tools for the Promptathon missions.
 
-### Using GitHub Codespaces
+### Using GitHub Codespace
 
 1. Fork this repository to your own GitHub account.
 
